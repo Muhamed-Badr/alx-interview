@@ -20,4 +20,3 @@ def makeChange(coins, total):
         if curTotal == total:
             return minCoins
     return -1
-
